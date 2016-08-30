@@ -5,10 +5,4 @@ color:
   lightness: 0.7730803969316185
   saturation: 0.7233079827856272
   rhythmicContrast: 0.25974700902588665
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
 name: fixing
